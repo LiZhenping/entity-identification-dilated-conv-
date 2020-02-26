@@ -1,0 +1,35 @@
+2020-02-26 18:11:54,241 - log\train.log - INFO - model_type     :	idcnn
+2020-02-26 18:11:54,241 - log\train.log - INFO - num_chars      :	37
+2020-02-26 18:11:54,241 - log\train.log - INFO - char_dim       :	100
+2020-02-26 18:11:54,241 - log\train.log - INFO - num_tags       :	9
+2020-02-26 18:11:54,241 - log\train.log - INFO - seg_dim        :	20
+2020-02-26 18:11:54,241 - log\train.log - INFO - lstm_dim       :	100
+2020-02-26 18:11:54,241 - log\train.log - INFO - batch_size     :	64.0
+2020-02-26 18:11:54,242 - log\train.log - INFO - emb_file       :	D:\neural demo\pycharm\lession8\data\vec.txt
+2020-02-26 18:11:54,242 - log\train.log - INFO - clip           :	5.0
+2020-02-26 18:11:54,242 - log\train.log - INFO - dropout_keep   :	0.5
+2020-02-26 18:11:54,242 - log\train.log - INFO - optimizer      :	adam
+2020-02-26 18:11:54,243 - log\train.log - INFO - lr             :	0.001
+2020-02-26 18:11:54,243 - log\train.log - INFO - tag_schema     :	iobes
+2020-02-26 18:11:54,243 - log\train.log - INFO - pre_emb        :	True
+2020-02-26 18:11:54,243 - log\train.log - INFO - zeros          :	True
+2020-02-26 18:11:54,243 - log\train.log - INFO - lower          :	False
+2020-02-26 18:11:59,585 - log\train.log - INFO - Created model with fresh parameters.
+2020-02-26 18:12:00,226 - log\train.log - INFO - Load pre-trained embedding.
+2020-02-26 18:12:00,227 - log\train.log - INFO - start training
+2020-02-26 18:12:05,883 - log\train.log - INFO - model saved
+2020-02-26 18:12:10,460 - log\train.log - INFO - model saved
+2020-02-26 18:12:14,439 - log\train.log - INFO - model saved
+2020-02-26 18:12:18,890 - log\train.log - INFO - model saved
+2020-02-26 18:12:22,610 - log\train.log - INFO - model saved
+2020-02-26 18:12:26,577 - log\train.log - INFO - model saved
+2020-02-26 18:12:30,369 - log\train.log - INFO - model saved
+2020-02-26 18:12:34,274 - log\train.log - INFO - model saved
+2020-02-26 18:12:38,079 - log\train.log - INFO - model saved
+2020-02-26 18:12:42,209 - log\train.log - INFO - model saved
+2020-02-26 18:12:46,319 - log\train.log - INFO - model saved
+2020-02-26 18:12:50,077 - log\train.log - INFO - model saved
+2020-02-26 18:12:54,038 - log\train.log - INFO - model saved
+2020-02-26 18:12:58,563 - log\train.log - INFO - model saved
+2020-02-26 18:13:02,581 - log\train.log - INFO - model saved
+2020-02-26 18:13:02,798 - log\train.log - INFO - iteration:101 step:0/1, NER loss:28.725445

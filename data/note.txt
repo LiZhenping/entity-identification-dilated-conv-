@@ -1,0 +1,4 @@
+example.dev
+example.test
+example.train
+是测试数据集，将...1替换为以上三个文件名可得到完整训练，测试数据集

@@ -1,0 +1,9 @@
+O:0
+B-SYM:1
+E-SYM:2
+B-DRU:3
+E-DRU:4
+I-SYM:5
+B-REG:6
+E-REG:7
+I-REG:8
